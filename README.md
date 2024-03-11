@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lucaoldenbeuving
-- 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning DATA SCIENCE
-- 💞️ I’m looking to collaborate on DATA SCIENCE
-- 📫 How to reach me: jesse 
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data science
 
 
 <!---
